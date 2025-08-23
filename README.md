@@ -17,8 +17,8 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[Expense Tracker Web App](https://github.com/satyamdeo19/Expense-Tracker-Web-App)**  
-A MERN-stack app for tracking income/expenses with secure JWT auth, group expense management, and category-based analytics.  
+🔹 **[Stock Tracker Web App](https://github.com/satyamdeo19/StockTrackr)**  
+A MERN-stack that lets users track their shareholdings and total portfolio value in real time.  
 
 🔹 **[Event Pulse](https://github.com/satyamdeo19/EventPulse)**  
 Interactive map-based event platform with geolocation search, date-based filters, and scalable MongoDB integration.  
@@ -28,19 +28,12 @@ Financial dashboard to query data efficiently via SQL, providing seamless analyt
 
 ---
 
-## 📚 Education  
-
-🎓 **IIIT Nagpur** – B.Tech in Computer Science and Engineering (Data Science specialization), 2023–2027  
-📖 **Senior Secondary:** Sri Rani Saraswati Vidya Mandir – 87.8%  
-
----
-
 ## 📫 Let's Connect  
 
 📧 Email: satyamdeo2004@gmail.com  
 💼 LinkedIn: [linkedin.com/in/satyamdeo](https://www.linkedin.com/in/satyamdeo)  
 🧑‍💻 GitHub: [github.com/satyamdeo19](https://github.com/satyamdeo19)  
-📱 Phone: +91 7250765176  
+
 
 ---
 
