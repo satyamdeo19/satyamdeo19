@@ -1,40 +1,60 @@
-# 👋 Hi, I'm Satyam Deo
+👋 Hi, I’m Satyam Deo
 
-🎓 I'm a third-year B.Tech student in Computer Science and Engineering (Data Science specialization) at IIIT Nagpur (2023–2027).  
-💻 Passionate about full-stack web development, scalable systems, and solving challenging problems.  
-📊 Exploring backend optimization, distributed systems, and cloud-based solutions.
+🎓 B.Tech in Computer Science & Engineering (Data Science & Analytics)
+📍 IIIT Nagpur | 2023 – 2027 | 
 
----
+💡 I enjoy building full-stack systems, backend-heavy applications, and ML-powered products that solve real problems.
+🧠 Strong interest in systems (OS, DBMS), scalable APIs, and applied machine learning.
 
-## 🛠️ Skills  
+🛠️ Technical Skills
 
-**Languages:** JavaScript, Python, C, C++, SQL, HTML, CSS  
-**Frameworks & Libraries:** React.js, Node.js, Express.js, Flask, Scikit-learn, Pandas  
-**Databases:** MongoDB, PostgreSQL, MongoDB Atlas  
-**Tools & Platforms:** Git, VS Code, Postman, Cloudinary, Mapbox  
+Languages: C, C++, Python, JavaScript, SQL
+Frameworks & Systems: React, Node.js, Express, FastAPI, MongoDB, REST APIs
+Machine Learning & Tools: Scikit-learn, Pandas, MediaPipe, Librosa, NLP
+Core CS: Data Structures, Operating Systems, DBMS, CN, OOP, Algorithms
+Developer Tools: Git, Postman, VS Code
 
----
+🚀 Featured Projects
+🔹 AI Mock Interview System
 
-## 🚀 Featured Projects  
+FastAPI • React • Machine Learning • NLP
 
-🔹 **[Stock Tracker Web App](https://github.com/satyamdeo19/StockTrackr)**  
-A MERN-stack that lets users track their shareholdings and total portfolio value in real time.  
+Built a full-stack AI interview platform with speech, facial, and text analysis
 
-🔹 **[Event Pulse](https://github.com/satyamdeo19/EventPulse)**  
-Interactive map-based event platform with geolocation search, date-based filters, and scalable MongoDB integration.  
+Engineered multimodal ML pipelines extracting 120+ behavioral features
 
-🔹 **[FinSight](https://github.com/satyamdeo19/FinSight)**  
-Financial dashboard to query data efficiently via SQL, providing seamless analytics for internal business use.
+Designed an interpretable 10-dimension scoring model for candidate evaluation
 
----
+Implemented resume-based question generation and real-time interview analytics
 
-## 📫 Let's Connect  
+🔹 Memory Hierarchy Simulator
 
-📧 Email: satyamdeo2004@gmail.com  
-💼 LinkedIn: [linkedin.com/in/satyamdeo](https://www.linkedin.com/in/satyamdeo)  
-🧑‍💻 GitHub: [github.com/satyamdeo19](https://github.com/satyamdeo19)  
+C++ • Operating Systems • Computer Architecture
 
+Simulated multi-level memory hierarchy (L1/L2/L3, RAM, Disk) with realistic latencies
 
----
+Implemented LRU, FIFO, LFU, and Optimal cache replacement algorithms
 
-⭐ *This is my GitHub Profile README. Here you'll find my projects, skills, and learning journey. Feel free to connect or collaborate!*  
+Modeled virtual memory, page tables, TLB, and page fault handling
+
+Built visualizations to analyze cache hit rate, latency, and policy efficiency
+
+🔹 Medi-Nexus
+
+MERN Stack • JWT • REST APIs
+
+Developed a full-stack eHealth platform for medicine orders, doctor appointments, and blood services
+
+Implemented JWT authentication and role-based access control
+
+Built an admin dashboard to manage users, orders, medicines, and emergency requests
+
+📫 Connect With Me
+
+📧 Email: satyamdeo2004@gmail.com
+
+💼 LinkedIn: linkedin.com/in/satyamdeo
+
+🧑‍💻 GitHub: github.com/satyamdeo19
+
+⭐ Focused on building solid systems, clean APIs, and impactful full-stack products.
